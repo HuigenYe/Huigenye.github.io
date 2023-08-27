@@ -1,0 +1,9 @@
+@inproceedings{ye2023adaptive,
+  title={Adaptive constraint partition based optimization framework for large-scale integer linear programming (student abstract)},
+  author={Ye, Huigen and Wang, Hongyan and Xu, Hua and Wang, Chengming and Jiang, Yu},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={13},
+  pages={16376--16377},
+  year={2023}
+}
