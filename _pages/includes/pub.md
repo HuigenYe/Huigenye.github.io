@@ -1,5 +1,26 @@
 # 📝 Publications 
 
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">ICLR 2024</div>
+            <a href="images/iclr2024.png">
+                <img src='images/iclr2024.png' alt="sym" width="100%">
+            </a>
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+    
+[**Light-MILPopt: Solving Large-scale Mixed Integer Linear Programs with Small-scale Optimizer and Small Training Dataset**](https://openreview.net/forum?id=2oWRumm67L) \\
+**Huigen Ye**, Hua Xu, Hongyan Wang
+
+- This paper proposes Light-MILPopt, a lightweight large-scale optimization framework that only uses a small-scale optimizer and small training dataset to solve large-scale MILPs. [[PDF]](PDF/ye2024light.pdf)
+
+</div>
+</div>
+
+
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
