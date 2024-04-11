@@ -1,5 +1,6 @@
 # 📝 Publications 
 
+## 🏔️ Solving Framework
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -15,7 +16,7 @@
 [**Light-MILPopt: Solving Large-scale Mixed Integer Linear Programs with Small-scale Optimizer and Small Training Dataset**](https://openreview.net/forum?id=2oWRumm67L) \\
 **Huigen Ye**, Hua Xu, Hongyan Wang
 
-- This paper proposes Light-MILPopt, a lightweight large-scale optimization framework that only uses a small-scale optimizer and small training dataset to solve large-scale MILPs. [[PDF]](PDF/ye2024light.pdf)
+- This paper proposes Light-MILPopt, a lightweight large-scale optimization framework that only uses a small-scale optimizer and small training dataset to solve large-scale MILPs. [[PDF]](PDF/ye2024light.pdf) [[BibTex]](BibTex/ye2023light.txt)
 
 </div>
 </div>
@@ -35,7 +36,7 @@
 [**GNN&GBDT-Guided Fast Optimizing Framework for Large-scale Integer Programming**](https://proceedings.mlr.press/v202/ye23e.html) \\
 **Huigen Ye**, Hua Xu, Hongyan Wang, Chengming Wang, Yu Jiang
 
-- This paper presents a GNN&GBDT-guided fast optimizing framework for large-scale IPs that only uses a small-scale optimizer to solve large-scale IPs efficiently. [[PDF]](PDF/ye2023gnn.pdf) [[BibTex]](BibTex/ye2023gnn.txt) [![](https://img.shields.io/github/stars/thuiar/GNN-GBDT-Guided-Fast-Optimizing-Framework?style=social&label=Code+Stars)](https://github.com/thuiar/GNN-GBDT-Guided-Fast-Optimizing-Framework) 
+- This paper presents a GNN&GBDT-guided fast optimizing framework for large-scale IPs that only uses a small-scale optimizer to solve large-scale IPs efficiently. [[PDF]](PDF/ye2023gnn.pdf) [[Video]](https://icml.cc/virtual/2023/poster/24107) [[BibTex]](BibTex/ye2023gnn.txt) [![](https://img.shields.io/github/stars/thuiar/GNN-GBDT-Guided-Fast-Optimizing-Framework?style=social&label=Code+Stars)](https://github.com/thuiar/GNN-GBDT-Guided-Fast-Optimizing-Framework) 
 
 </div>
 </div>
@@ -59,3 +60,8 @@
 
 </div>
 </div>
+
+
+## 🪵 Data Generator
+
+- <code class="language-plaintext highlighter-rouge">GECCO 2024</code> [Learning to Generate Scalable MILP Instances](https://gecco-2024.sigevo.org/Accepted-Posters), Tianxing Yang, **Huigen Ye**, Hua Xu. [[PDF]](PDF/yang2024learning.pdf)

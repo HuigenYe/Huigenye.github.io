@@ -1,0 +1,6 @@
+@inproceedings{ye2023light,
+  title={Light-MILPopt: Solving Large-scale Mixed Integer Linear Programs with Lightweight Optimizer and Small-scale Training Dataset},
+  author={Ye, Huigen and Xu, Hua and Wang, Hongyan},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2023}
+}
